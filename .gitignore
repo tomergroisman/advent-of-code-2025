@@ -2,3 +2,4 @@
 input.txt
 input.test.txt
 .storage
+__pycache__
